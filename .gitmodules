@@ -1,0 +1,3 @@
+[submodule "privacy/lib/forge-std"]
+	path = privacy/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
