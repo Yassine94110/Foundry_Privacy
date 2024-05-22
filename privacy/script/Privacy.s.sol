@@ -20,7 +20,7 @@ contract PrivacyScript is Script {
 
         privacy.unlock(key);
 
-        console2.log("'top' set to : ", privacy.locked());
+        console2.log(" is locked ?", privacy.locked());
 
         vm.stopBroadcast();
     }
